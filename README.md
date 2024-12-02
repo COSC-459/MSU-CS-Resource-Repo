@@ -1,0 +1,2 @@
+# MSU-CS-Resource-Repo
+The MSU CS Resource and Job Opportunity Repository is a web-based application designed to serve computer science students at Morgan State University. This platform will act as a centralized hub, providing access to a variety of opportunities and resources that are essential for student growth and career development.  The goal is to empower students by connecting them to practical experiences such as internships, research opportunities, scholarships, and early career jobs, as well as valuable educational content that goes beyond the classroom. 
